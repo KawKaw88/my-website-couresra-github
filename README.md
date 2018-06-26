@@ -4,3 +4,6 @@ This is really cool.
 Main web site!
 6-26-2018 2:47pm Updates on master in GitHub before rebase!
 
+## Purpose
+
+This is just a readme file.
