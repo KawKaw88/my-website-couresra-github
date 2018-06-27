@@ -6,7 +6,4 @@ Main web site!
 
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the GitHub side.
-This change is made locally.
-
+This is just a readme file.
